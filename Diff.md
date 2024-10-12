@@ -30,3 +30,20 @@ index dc9c1b3..34df5e3 100644
 -    基礎規則
 \ No newline at end of file
 +    基礎規則
+
+！！！！第２個例子！！！！
+H@Mac-mini VScode % git diff 8422196 -- Checkout.md
+diff --git a/Checkout.md b/Checkout.md
+index 363124f..9e98ac8 100644
+--- a/Checkout.md
++++ b/Checkout.md
+@@ -21,4 +21,6 @@ Date:   Sat Oct 12 19:35:19 2024 +0800
+ !!!!!!!!!!!!!!!!!!!!!!!!!
+ 真正的還原是找到 git log --oneline 數字標籤後
+ 下指令
+-git checkout ******(數字標籤) -- 檔名.副檔名
+\ No newline at end of file
++git checkout ******(數字標籤) -- 檔名.副檔名
++
++為了練習checkout指令的亂寫
+\ No newline at end of file

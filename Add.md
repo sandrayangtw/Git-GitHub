@@ -5,3 +5,9 @@
 最後Save指令是 Command+Save
 可以用 git.status 檢查狀態
 clear => 清空所有指令紀錄
+
+每次修改檔案後的存檔，都必須 git add 告知要 commit 什麼
+否則會出現 =>
+
+no changes added to commit (use "git add" and/or "git commit -a")
+若 git add 後，可以一口氣家所有檔案的新版本嗎？

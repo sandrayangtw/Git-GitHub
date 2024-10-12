@@ -24,3 +24,10 @@ Date:   Sat Oct 12 19:35:19 2024 +0800
 git checkout ******(數字標籤) -- 檔名.副檔名
 
 為了練習checkout指令的亂寫
+
+幾乎可以換前換後調整
+
+MH@Mac-mini VScode % git checkout 8422196 -- Checkout.md
+MH@Mac-mini VScode % git checkout c014c94 -- Checkout.md
+MH@Mac-mini VScode % git checkout 8422196 -- Checkout.md
+MH@Mac-mini VScode % git checkout c014c94 -- Checkout.md
