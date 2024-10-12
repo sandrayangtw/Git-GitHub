@@ -22,3 +22,5 @@ Date:   Sat Oct 12 19:35:19 2024 +0800
 真正的還原是找到 git log --oneline 數字標籤後
 下指令
 git checkout ******(數字標籤) -- 檔名.副檔名
+
+為了練習checkout指令的亂寫
