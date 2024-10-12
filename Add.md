@@ -16,3 +16,5 @@ no changes added to commit (use "git add" and/or "git commit -a")
 
 [main f26beb8] 若 git add 後，可以一口氣家所有檔案的新版本嗎？
  4 files changed, 34 insertions(+), 3 deletions(-)
+
+ 所以 diff / checkout + 版本數字標籤後，都必須加檔案
