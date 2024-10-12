@@ -11,3 +11,8 @@ clear => 清空所有指令紀錄
 
 no changes added to commit (use "git add" and/or "git commit -a")
 若 git add 後，可以一口氣家所有檔案的新版本嗎？
+
+是的一次可以幫所有檔案留下新版本
+
+[main f26beb8] 若 git add 後，可以一口氣家所有檔案的新版本嗎？
+ 4 files changed, 34 insertions(+), 3 deletions(-)
