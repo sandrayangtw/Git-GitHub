@@ -3,6 +3,8 @@ git diff f56ad3c -- Checkout.md
 [得到非常精細的比較]
 
 MH@Mac-mini VScode % git diff f56ad3c -- Checkout.md
+--f56ad3c 是版本的數字標籤，輸入後會跟目前版本作比較
+
 diff --git a/Checkout.md b/Checkout.md
 index dc9c1b3..34df5e3 100644
 --- a/Checkout.md
